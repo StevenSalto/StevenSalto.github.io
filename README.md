@@ -1,2 +1,2 @@
 # StevenSalto.github.io
-This is my persoanl website.
+This is my personal website.
